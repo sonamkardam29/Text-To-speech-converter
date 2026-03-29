@@ -18,4 +18,4 @@ Python, pyttsx3, gTTS, playsound
 ## How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<YourUsername>/text-to-speech-converter.git
+   git clone https://github.com/sonamkardam29/Text-To-speech-converter.git
