@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 3b1148e216fe8eebfb84d31cb684bb6ef00110a5
 # Dual Text-to-Speech Converter
 
 A Python application that converts text into speech using both **offline** (pyttsx3) and **online** (gTTS) engines. Users can choose which engine to use, save audio, and play it.
@@ -26,4 +23,3 @@ Python, pyttsx3, gTTS, playsound
 =======
    git clone https://github.com/sonamkardam29/Text-To-speech-converter.git
    
->>>>>>> 3b1148e216fe8eebfb84d31cb684bb6ef00110a5
